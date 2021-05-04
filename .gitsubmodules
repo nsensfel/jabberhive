@@ -1,0 +1,53 @@
+[submodule "gateway/discord"]
+   target = branch master
+   target_overrides_commit = False
+   enable = True
+   commit = f1eb948bd026aa123da91dc182a630a47a8de03d
+[submodule "gateway/cli"]
+   source = https://github.com/nsensfel/jabberhive-cli.git
+   target = branch master
+   target_overrides_commit = False
+   enable = True
+   commit = 19b28fafe0ee8c0f3123e8698f1fe30ada653b36
+[submodule "gateway/irc"]
+   source = https://github.com/nsensfel/jabberhive-irc.git
+   target = branch master
+   target_overrides_commit = False
+   enable = True
+   commit = 197336db213195e015a3f301473eeb29f23a2d49
+[submodule "server/markov-k-ram"]
+   source = https://github.com/nsensfel/jabberhive-markov-k-ram.git
+   target = branch master
+   target_overrides_commit = False
+   enable = True
+   commit = 159be47848e99ae1cdda6619e42058d5edd468d5
+[submodule "filter/two-way-replace"]
+   source = https://github.com/nsensfel/jabberhive-two-way-replace.git
+   target = branch master
+   target_overrides_commit = False
+   enable = True
+   commit = 85b049891d1ffbba8de9a6cca774636583070042
+[submodule "filter/storage"]
+   source = https://github.com/nsensfel/jabberhive-storage.git
+   target = branch master
+   target_overrides_commit = False
+   enable = True
+   commit = 2798c72c3c966822ee1c556ef2b8e24a57f40475
+[submodule "filter/lowercase"]
+   source = https://github.com/nsensfel/jabberhive-lowercase.git
+   target = branch master
+   target_overrides_commit = False
+   enable = True
+   commit = 7b7f0a545956a048d14dd5a9644744197ba7d0a8
+[submodule "filter/regex"]
+   source = https://github.com/nsensfel/jabberhive-regex.git
+   target = branch master
+   target_overrides_commit = False
+   enable = True
+   commit = 30e0e9f56c874eeca9d6cfe601e525f6235523d5
+[submodule "filter/limiter"]
+   source = https://github.com/nsensfel/jabberhive-limiter.git
+   target = branch master
+   target_overrides_commit = False
+   enable = True
+   commit = f8a997b2b7b6548f6b43f373e9971477c6630a7e

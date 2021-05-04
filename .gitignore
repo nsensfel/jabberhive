@@ -1,0 +1,9 @@
+gateway/discord
+filter/lowercase
+filter/storage
+gateway/cli
+filter/regex
+filter/limiter
+gateway/irc
+server/markov-k-ram
+filter/two-way-replace

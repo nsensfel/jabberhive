@@ -17,7 +17,7 @@
    source = https://git.noot-noot.org/clone/jabberhive/gateway/irc
    target = branch master
    target_overrides_commit = True
-   enable = True
+   enable = False
    commit = 197336db213195e015a3f301473eeb29f23a2d49
 [submodule "server/markov-k-disk"]
    source = https://github.com/nsensfel/jabberhive-markov-k-disk.git
@@ -31,7 +31,7 @@
    source = https://git.noot-noot.org/clone/jabberhive/server/markov-k-ram
    target = branch master
    target_overrides_commit = True
-   enable = True
+   enable = False
    commit = 159be47848e99ae1cdda6619e42058d5edd468d5
 [submodule "filter/two-way-replace"]
    source = https://github.com/nsensfel/jabberhive-two-way-replace.git
@@ -45,13 +45,13 @@
    target = branch main
    target_overrides_commit = True
    enable = True
-   commit = e031080 
+   commit = e031080
 [submodule "filter/storage"]
    source = https://github.com/nsensfel/jabberhive-storage.git
    source = https://git.noot-noot.org/clone/jabberhive/filter/storage
    target = branch master
    target_overrides_commit = True
-   enable = True
+   enable = False
    commit = 2798c72c3c966822ee1c556ef2b8e24a57f40475
 [submodule "filter/lowercase"]
    source = https://github.com/nsensfel/jabberhive-lowercase.git

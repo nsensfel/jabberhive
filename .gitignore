@@ -8,3 +8,4 @@ gateway/irc
 server/markov-k-ram
 filter/two-way-replace
 server/markov-k-disk
+filter/personalizer

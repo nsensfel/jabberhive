@@ -40,6 +40,12 @@
    target_overrides_commit = True
    enable = True
    commit = 85b049891d1ffbba8de9a6cca774636583070042
+[submodule "filter/personalizer"]
+   source = https://github.com/nsensfel/jabberhive-personalizer.git
+   target = branch main
+   target_overrides_commit = True
+   enable = True
+   commit = e031080 
 [submodule "filter/storage"]
    source = https://github.com/nsensfel/jabberhive-storage.git
    source = https://git.noot-noot.org/clone/jabberhive/filter/storage
